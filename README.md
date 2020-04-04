@@ -29,3 +29,10 @@ ConvertToCamel  Convert a string from any format to camelCase.
 ```
 
 ## Example
+
+```code
+ConvertToSnake("ConvertToSnakeCase") =>  convert_to_snake_case
+ConvertToKebab("convert_to_kebab_case") => convert-to-kebab-case.
+ConvertToPascal("convert-to-pascal-case") => ConvertToPascalCase.
+ConvertToCamel("convert to camel case") => convertToCamelCase.
+```
