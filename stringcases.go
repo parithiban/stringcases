@@ -20,21 +20,21 @@ func ConvertToKebab(s string) string {
 
 // CommonSnakeKebabCase common method to convert the given string to snake/kebab case
 // Returns a string
-func CommonSnakeKebabCase(s string, seperator string, identifier string) string {
+func CommonSnakeKebabCase(s string, separator string, identifier string) string {
 	var output strings.Builder
 	runeContains := identifier + " "
 
 	for _, character := range s {
 		if unicode.IsUpper(character) {
-			output.WriteString(seperator + string(character))
+			output.WriteString(separator + string(character))
 		} else if strings.ContainsRune(runeContains, character) {
-			output.WriteString(seperator)
+			output.WriteString(separator)
 		} else {
 			output.WriteString(string(character))
 		}
 	}
 
-	return strings.ToLower(strings.TrimPrefix(output.String(), seperator))
+	return strings.ToLower(strings.TrimPrefix(output.String(), separator))
 }
 
 // ConvertToPascal converts a string to PascalCase
