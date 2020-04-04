@@ -1,8 +1,8 @@
 # stringcases
 
 [![Build Status](https://travis-ci.org/parithiban/stringcases.svg?branch=master)](https://travis-ci.org/parithiban/stringcases)
-[![Go Report Card](https://goreportcard.com/badge/github.com/parithiban/stringcases)](https://goreportcard.com/report/github.com/parithiban/stringcases)
 [![codecov.io](https://codecov.io/github/parithiban/stringcases/coverage.svg?branch=master)](https://codecov.io/github/parithiban/stringcases?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/parithiban/stringcases)](https://goreportcard.com/report/github.com/parithiban/stringcases)
 
 [![codecov](https://codecov.io/gh/parithiban/stringcases/branch/master/graph/badge.svg)](https://codecov.io/gh/parithiban/stringcases)
 
