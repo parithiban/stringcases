@@ -1,9 +1,8 @@
 # stringcases
 
+[![GoDoc](https://img.shields.io/static/v1?label=godoc&message=reference&color=blue)](https://pkg.go.dev/github.com/parithiban/stringcases)
 [![Build Status](https://travis-ci.org/parithiban/stringcases.svg?branch=master)](https://travis-ci.org/parithiban/stringcases)
 [![codecov.io](https://codecov.io/github/parithiban/stringcases/coverage.svg?branch=master)](https://codecov.io/github/parithiban/stringcases?branch=master)
-
-
 
 [![GitHub contributors](https://img.shields.io/github/contributors/parithiban/stringcases.svg?style=plastic&color=blue)](https://GitHub.com/parithiban/stringcases/graphs/contributors/)
 ![Last Commit](https://img.shields.io/github/last-commit/parithiban/stringcases.svg?style=plastic)

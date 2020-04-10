@@ -1,15 +1,15 @@
 mode: set
 github.com/parithiban/stringcases/stringcases.go:11.38,13.2 1 1
 github.com/parithiban/stringcases/stringcases.go:17.38,19.2 1 1
-github.com/parithiban/stringcases/stringcases.go:23.81,27.30 3 1
-github.com/parithiban/stringcases/stringcases.go:37.2,37.72 1 1
-github.com/parithiban/stringcases/stringcases.go:27.30,28.33 1 1
-github.com/parithiban/stringcases/stringcases.go:28.33,30.4 1 1
-github.com/parithiban/stringcases/stringcases.go:30.9,30.59 1 1
-github.com/parithiban/stringcases/stringcases.go:30.59,32.4 1 1
-github.com/parithiban/stringcases/stringcases.go:32.9,34.4 1 1
-github.com/parithiban/stringcases/stringcases.go:42.39,47.32 4 1
-github.com/parithiban/stringcases/stringcases.go:51.2,51.24 1 1
-github.com/parithiban/stringcases/stringcases.go:47.32,49.3 1 1
-github.com/parithiban/stringcases/stringcases.go:56.38,58.2 1 1
-github.com/parithiban/stringcases/stringcases.go:62.40,66.2 3 1
+github.com/parithiban/stringcases/stringcases.go:21.81,25.30 3 1
+github.com/parithiban/stringcases/stringcases.go:35.2,35.72 1 1
+github.com/parithiban/stringcases/stringcases.go:25.30,26.33 1 1
+github.com/parithiban/stringcases/stringcases.go:26.33,28.4 1 1
+github.com/parithiban/stringcases/stringcases.go:28.9,28.59 1 1
+github.com/parithiban/stringcases/stringcases.go:28.59,30.4 1 1
+github.com/parithiban/stringcases/stringcases.go:30.9,32.4 1 1
+github.com/parithiban/stringcases/stringcases.go:40.39,45.32 4 1
+github.com/parithiban/stringcases/stringcases.go:49.2,49.24 1 1
+github.com/parithiban/stringcases/stringcases.go:45.32,47.3 1 1
+github.com/parithiban/stringcases/stringcases.go:54.38,56.2 1 1
+github.com/parithiban/stringcases/stringcases.go:60.40,64.2 3 1

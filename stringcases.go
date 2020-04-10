@@ -9,18 +9,16 @@ import (
 // ConvertToSnake converts a string to snake_case
 // Returns a string
 func ConvertToSnake(s string) string {
-	return CommonSnakeKebabCase(s, "_", "-")
+	return commonSnakeKebabCase(s, "_", "-")
 }
 
 // ConvertToKebab converts a string to kebab-case
 // Returns a string
 func ConvertToKebab(s string) string {
-	return CommonSnakeKebabCase(s, "-", "_")
+	return commonSnakeKebabCase(s, "-", "_")
 }
 
-// CommonSnakeKebabCase common method to convert the given string to snake/kebab case
-// Returns a string
-func CommonSnakeKebabCase(s string, separator string, identifier string) string {
+func commonSnakeKebabCase(s string, separator string, identifier string) string {
 	var output strings.Builder
 	runeContains := identifier + " "
 
